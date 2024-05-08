@@ -1,0 +1,2 @@
+# Stremio
+Anime Streaming app
